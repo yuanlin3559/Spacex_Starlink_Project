@@ -1,0 +1,16 @@
+Features:
+    1. provide settings
+    2. list all satellites on the given location
+    3. track satellites on map
+
+Layout:
+    top
+    main(left, right)
+    bottom
+
+Components:
+                    App
+    Header        Main       Footer
+
+        SetSetting SetList WorldMap
+
